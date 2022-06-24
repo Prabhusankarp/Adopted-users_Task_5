@@ -17,7 +17,7 @@ Decision Tree algritham is used to find the important features. Therefor the dat
 
 The model is able to predict the adoptive user/visiter with 88% accuracy.
 
-The Important features is ploted in the bar garph.
+The Important features is ploted in the bar graph.
 
 The most important features to predict the adoptive user is 1."last_session_creation_time" and 2."org_id"
 
